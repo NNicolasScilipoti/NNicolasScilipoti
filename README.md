@@ -15,7 +15,7 @@ Front End
  • React
  • Tailwind CSS
  • CSS3
-
+ 
 Otras herramientas
  • Git & GitHub
  • Excel, PowerPoint, Word
@@ -26,7 +26,7 @@ Otras herramientas
  • Adaptabilidad
  • Pensamiento crítico
  • Orientación al usuario
-
+ 
 📫 Contacto
 Email: nicoscili@gmail.com 
 LinkedIn: linkedin.com/in/nicolas-scilipoti
