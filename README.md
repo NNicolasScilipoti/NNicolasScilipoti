@@ -1,6 +1,6 @@
 # ✨ ¡Hola! Soy Nicolás Nehuen Scilipoti 👋
 
-### **Front End Developer • Typescript • Next.js • CSS • Tailwind**
+### **Front End Developer • Typescript • Next.js • Tailwind**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Front%20End-Developer-blueviolet?style=for-the-badge" />
