@@ -18,7 +18,6 @@ Trabajo principalmente con:
 
 * **Typescript**
 * **Next.js**
-* **React**
 * **Tailwind CSS**
 
 Me apasiona transformar ideas en productos digitales reales con diseño moderno, código limpio y performance.
@@ -48,11 +47,11 @@ Me apasiona transformar ideas en productos digitales reales con diseño moderno,
 
 ---
 
-## 📂 Proyecto Destacado
+## 📂 Proyectos Destacado
 
 ### 🔗 **Front – Proyecto Full Stack (Henry Bootcamp)**
 
-Repositorio: [https://github.com/pf-henry-g3/front](https://github.com/pf-henry-g3/front)
+Repositorio: [https://github.com/NNicolasScilipoti/Syncro](https://github.com/NNicolasScilipoti/Syncro)
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
@@ -64,9 +63,25 @@ Proyecto grupal completo con arquitectura escalable, múltiples vistas, autentic
 
 ---
 
+## 📂 Otros Proyectos 
+
+### 🔗 **Front – Proyecto Front End (Henry Bootcamp)**
+
+Repositorio: [https://github.com/NNicolasScilipoti/Store-sketch](https://github.com/NNicolasScilipoti/Store-sketch)
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+</p>
+
+Proyecto individual exclusivamente Front End para aprendizaje e implementación de Next, con arquitectura escalable, múltiples vistas, autenticación y diseño moderno.
+
+---
+
 ## 📫 Contacto
 
-📧 **Email:** [nicoscili@gmail.com](mailto:nicoscili@gmail.com)
+📧 **Email:** [nicoscili@gmail.com](mailto:nicoscili@gmail.com) <br>
 🔗 **LinkedIn:** [https://www.linkedin.com/in/nicolas-scilipoti](https://www.linkedin.com/in/nicolas-scilipoti)
 
 
